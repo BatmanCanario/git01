@@ -1,0 +1,14 @@
+ El volumen de la unidad D es ALMACEN LOCAL
+ El n£mero de serie del volumen es: 4ADA-3E70
+
+ Directorio de D:\DAW\ETS\git02
+
+14/05/2018  18:25    <DIR>          .
+14/05/2018  18:25    <DIR>          ..
+14/05/2018  18:08               353 c1.txt
+14/05/2018  18:10               397 c2.txt
+14/05/2018  18:20               441 c3.txt
+14/05/2018  18:23               485 c8.txt
+14/05/2018  18:25                 0 c9.txt
+               5 archivos          1.676 bytes
+               2 dirs  703.046.701.056 bytes libres
